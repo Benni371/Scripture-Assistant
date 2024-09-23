@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Scriptural Verse Finder",
+    "version": "1.0",
+    "description": "Open scripture verses from the Church of Jesus Christ website.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "./resources/scriptures.png"  
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }
+  
